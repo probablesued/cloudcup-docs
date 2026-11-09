@@ -5,6 +5,7 @@
 ## 教程
 
 - [云服务器账单为什么超预算：计算、磁盘、公网流量与快照费用清单](docs/cloud-server-bill-over-budget.md)
+- [云账号登录和权限怎么收紧：多因素认证与最小权限](docs/cloud-account-mfa-least-privilege.md)
 
 ## 服务说明
 
