@@ -7,6 +7,7 @@
 - [云服务器账单为什么超预算：计算、磁盘、公网流量与快照费用清单](docs/cloud-server-bill-over-budget.md)
 - [云账号登录和权限怎么收紧：多因素认证与最小权限](docs/cloud-account-mfa-least-privilege.md)
 - [对象存储私有桶与临时访问链接：预签名 URL 和签名 URL](docs/object-storage-private-bucket-presigned-url.md)
+- [CDN 费用配置与防超支：流量、请求、回源与用量上限](docs/cdn-cost-configuration.md)
 
 ## 服务说明
 
