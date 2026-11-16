@@ -10,6 +10,7 @@
 - [CDN 费用配置与防超支：流量、请求、回源与用量上限](docs/cdn-cost-configuration.md)
 - [云账号充值与多币种付款核对：币种、汇率、到账与账单对账](docs/multi-currency-top-up-verification.md)
 - [云数据库自动备份、保留期与恢复演练](docs/cloud-database-backup-restore.md)
+- [闲置公网 IP、负载均衡与 NAT 网关：空转计费与清理清单](docs/idle-public-ip-lb-nat-cleanup.md)
 
 ## 服务说明
 
