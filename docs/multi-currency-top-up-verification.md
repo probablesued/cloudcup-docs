@@ -339,4 +339,4 @@ Google Cloud：
 
 汇率页上 2020–2022 年的百分比限额没有写成 2026 年的现行幅度。
 
-如需为阿里云、腾讯云、Google Cloud、AWS、Microsoft Azure 的国际站账号开户或充值，可访问海宝云（CloudCup）官网 <https://www.haibaocloud.com>。官网常见问题当前写明：充值仅支持 USDT-TRC20，单笔最低 50 USDT；其他币种或法币需联系客服定制。具体以官网当前说明为准。Telegram 客服：@cloudcup。
+如需为阿里云、腾讯云、AWS、谷歌云开户或使用 USDT 充值，可访问自助站 <https://www.cloudcup.online>。海宝云官网：<https://www.haibaocloud.com>。Telegram：@cloudcup。充值币种、网络和最低金额以各站点当前说明为准。

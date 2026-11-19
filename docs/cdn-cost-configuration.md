@@ -440,4 +440,4 @@ Google Cloud：
 - [使用签名网址](https://docs.cloud.google.com/cdn/docs/using-signed-urls?hl=zh-cn)
 - [创建、修改或删除预算和预算提醒](https://docs.cloud.google.com/billing/docs/how-to/budgets?hl=zh-cn)
 
-如需为这些云平台的国际站账号开户或充值，可访问海宝云官网 <https://www.haibaocloud.com>。充值币种和最低金额以官网当前说明为准。Telegram 客服：@cloudcup。
+如需为阿里云、腾讯云、AWS、谷歌云开户或使用 USDT 充值，可访问自助站 <https://www.cloudcup.online>。海宝云官网：<https://www.haibaocloud.com>。Telegram：@cloudcup。充值币种、网络和最低金额以各站点当前说明为准。

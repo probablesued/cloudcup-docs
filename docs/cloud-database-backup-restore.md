@@ -535,4 +535,4 @@ Google Cloud：
 
 Cloud SQL for PostgreSQL 和 SQL Server 的备份页、`gcloud sql instances patch` 参考页、Backup and DR 单价表这次没有打开。定价页上的金额没有写入正文。
 
-如需为阿里云、腾讯云、Google Cloud、AWS、Microsoft Azure 的国际站账号开户或充值，可访问海宝云（CloudCup）官网 <https://www.haibaocloud.com>。官网常见问题当前写明：充值仅支持 USDT-TRC20，单笔最低 50 USDT；其他币种或法币需联系客服定制。具体以官网当前说明为准。Telegram 客服：@cloudcup。
+如需为阿里云、腾讯云、AWS、谷歌云开户或使用 USDT 充值，可访问自助站 <https://www.cloudcup.online>。海宝云官网：<https://www.haibaocloud.com>。Telegram：@cloudcup。充值币种、网络和最低金额以各站点当前说明为准。

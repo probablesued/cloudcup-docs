@@ -458,4 +458,4 @@ Google Cloud：
 - [Signatures](https://docs.cloud.google.com/storage/docs/authentication/signatures)
 - [Cloud Storage 价格](https://cloud.google.com/storage/pricing?hl=zh-cn)
 
-如需为这些云平台的国际站账号开户或充值，可访问海宝云官网 <https://www.haibaocloud.com>。充值币种和最低金额以官网当前说明为准。Telegram 客服：@cloudcup。
+如需为阿里云、腾讯云、AWS、谷歌云开户或使用 USDT 充值，可访问自助站 <https://www.cloudcup.online>。海宝云官网：<https://www.haibaocloud.com>。Telegram：@cloudcup。充值币种、网络和最低金额以各站点当前说明为准。
