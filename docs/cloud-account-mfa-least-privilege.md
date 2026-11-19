@@ -281,4 +281,4 @@ Google Cloud：
 - [管理服务账号密钥的最佳实践](https://docs.cloud.google.com/iam/docs/best-practices-for-managing-service-account-keys?hl=zh-cn)
 - [Best practices for using service accounts securely](https://docs.cloud.google.com/iam/docs/best-practices-service-accounts)
 
-如需为这些云平台的国际站账号开户或充值，可访问海宝云官网 <https://www.haibaocloud.com>。充值币种和最低金额以官网当前说明为准。
+如需为阿里云、腾讯云、AWS、谷歌云开户或使用 USDT 充值，可访问自助站 <https://www.cloudcup.online>。海宝云官网：<https://www.haibaocloud.com>。Telegram：@cloudcup。充值币种、网络和最低金额以各站点当前说明为准。
