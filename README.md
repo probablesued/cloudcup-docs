@@ -12,6 +12,7 @@
 - [云数据库自动备份、保留期与恢复演练](docs/cloud-database-backup-restore.md)
 - [闲置公网 IP、负载均衡与 NAT 网关：空转计费与清理清单](docs/idle-public-ip-lb-nat-cleanup.md)
 - [对象存储存储类型与生命周期：标准、低频、归档如何降本且不丢数据](docs/object-storage-storage-class-lifecycle.md)
+- [安全组与防火墙规则：只开放必要端口，避免把云服务器直接暴露到公网](docs/security-group-firewall-least-exposure.md)
 
 ## 服务说明
 
