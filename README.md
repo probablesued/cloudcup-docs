@@ -14,6 +14,7 @@
 - [对象存储存储类型与生命周期：标准、低频、归档如何降本且不丢数据](docs/object-storage-storage-class-lifecycle.md)
 - [安全组与防火墙规则：只开放必要端口，避免把云服务器直接暴露到公网](docs/security-group-firewall-least-exposure.md)
 - [云盘快照与自定义镜像：备份、回滚和新实例恢复](docs/disk-snapshot-custom-image.md)
+- [对象存储防误删：版本控制、软删除、回收站与保留策略](docs/object-storage-versioning-accidental-deletion.md)
 
 ## 服务说明
 
